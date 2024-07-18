@@ -1,0 +1,42 @@
+﻿  main.cpp
+C:\Users\JH CHEN\Desktop\新建文件夹\拟合测试\Project1\Project1\main.cpp(26,66): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\JH CHEN\Desktop\新建文件夹\拟合测试\Project1\Project1\main.cpp(65,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\JH CHEN\Desktop\新建文件夹\拟合测试\Project1\Project1\main.cpp(71,32): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\JH CHEN\Desktop\新建文件夹\拟合测试\Project1\Project1\main.cpp(86,36): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\JH CHEN\Desktop\新建文件夹\拟合测试\Project1\Project1\main.cpp(91,36): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\JH CHEN\Desktop\新建文件夹\拟合测试\Project1\Project1\main.cpp(95,36): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\JH CHEN\Desktop\新建文件夹\拟合测试\Project1\Project1\main.cpp(100,36): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\JH CHEN\Desktop\新建文件夹\拟合测试\Project1\Project1\main.cpp(108,22): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\JH CHEN\Desktop\新建文件夹\拟合测试\Project1\Project1\main.cpp(109,22): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\JH CHEN\Desktop\新建文件夹\拟合测试\Project1\Project1\main.cpp(116,37): warning C4244: “+=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\JH CHEN\Desktop\新建文件夹\拟合测试\Project1\Project1\main.cpp(117,37): warning C4244: “+=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\JH CHEN\Desktop\新建文件夹\拟合测试\Project1\Project1\main.cpp(145,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\JH CHEN\Desktop\新建文件夹\拟合测试\Project1\Project1\main.cpp(152,17): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\JH CHEN\Desktop\新建文件夹\拟合测试\Project1\Project1\main.cpp(155,25): warning C4244: “参数”: 从“float”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\JH CHEN\Desktop\新建文件夹\拟合测试\Project1\Project1\main.cpp(182,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\JH CHEN\Desktop\新建文件夹\拟合测试\Project1\Project1\main.cpp(192,26): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+  Project1.vcxproj -> C:\Users\JH CHEN\Desktop\新建文件夹\拟合测试\Project1\x64\Debug\Project1.exe

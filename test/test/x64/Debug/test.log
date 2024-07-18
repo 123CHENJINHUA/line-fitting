@@ -1,0 +1,49 @@
+﻿  main.cpp
+C:\Users\JH CHEN\Desktop\新建文件夹\test\test\main.cpp(14,15): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\JH CHEN\Desktop\新建文件夹\test\test\main.cpp(25,11): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\JH CHEN\Desktop\新建文件夹\test\test\main.cpp(26,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\JH CHEN\Desktop\新建文件夹\test\test\main.cpp(29,28): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\JH CHEN\Desktop\新建文件夹\test\test\main.cpp(29,25): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\JH CHEN\Desktop\新建文件夹\test\test\main.cpp(35,23): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\JH CHEN\Desktop\新建文件夹\test\test\main.cpp(39,24): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\JH CHEN\Desktop\新建文件夹\test\test\main.cpp(61,23): warning C4244: “参数”: 从“_Tp”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Ty=float
+          ]
+C:\Users\JH CHEN\Desktop\新建文件夹\test\test\main.cpp(62,23): warning C4244: “参数”: 从“_Tp”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Ty=float
+          ]
+C:\Users\JH CHEN\Desktop\新建文件夹\test\test\main.cpp(83,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\JH CHEN\Desktop\新建文件夹\test\test\main.cpp(93,26): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+  test.vcxproj -> C:\Users\JH CHEN\Desktop\新建文件夹\test\x64\Debug\test.exe
